@@ -57,6 +57,7 @@ Math.random() * Max)+ Min
 }
 /* otra forma de realizar una matriz
 
+
         int[][] matriz = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
 
         ArrayList<int[]> lista = new ArrayList<int[]>();
